@@ -11,3 +11,8 @@
 
     ตรวจสอบ ที่ run อยู่
         docker ps
+
+
+Download
+
+https://www.docker.com/
