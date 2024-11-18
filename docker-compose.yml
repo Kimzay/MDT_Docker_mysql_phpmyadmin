@@ -6,7 +6,7 @@ services:
     container_name: mysql_container
     environment:
       MYSQL_ROOT_PASSWORD: rootpassword  # รหัสผ่านของ root
-      MYSQL_DATABASE: exampledb  # ชื่อฐานข้อมูลที่ต้องการสร้าง
+      MYSQL_DATABASE: mydb  # ชื่อฐานข้อมูลที่ต้องการสร้าง
       MYSQL_USER: user  # ชื่อผู้ใช้
       MYSQL_PASSWORD: userpassword  # รหัสผ่านของผู้ใช้
     ports:
